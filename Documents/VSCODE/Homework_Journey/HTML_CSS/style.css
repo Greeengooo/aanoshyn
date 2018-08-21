@@ -1,0 +1,93 @@
+    body {
+        width: 1500px;
+        height: 8px;
+        background-color: dimgray;
+        font-family: Verdana;
+    }
+    
+    .header {
+        width: 2064px;
+        height: 45px;
+        margin-left: 182px;
+    }
+    
+    .logo {
+        width: 41%;
+        margin: 0;
+        float: left;
+    }
+    
+    #tr1 {
+        width: 104px;
+        height: 22px;
+    }
+    
+    #tr2 {
+        width: 105px;
+        height: 13px;
+    }
+    
+    .logo_milan {
+        font-size: 29px;
+        color: #ffffff;
+        font-weight: 700;
+        line-height: 21px;
+        text-align: left;
+        margin-left: 15px;
+    }
+    
+    .logo_holidays {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        text-align: left;
+        margin-left: 15px;
+    }
+    
+    .contacts {
+        width: 59%;
+        margin: 0;
+        float: right;
+    }
+    
+    #email {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        text-align: left;
+    }
+    
+    #phone_number {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        text-align: left;
+    }
+    
+    .tours {
+        width: 1107px;
+        height: 547px;
+        margin-top: 45px;
+        margin-left: 141px;
+    }
+    
+    .tours_tables {
+        text-align: center;
+    }
+    
+    .bottom_table {
+        padding-top: 53px;
+    }
+    
+    .copyright {
+        text-align: center;
+        margin-top: 95px;
+        color: #ffffff;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 21px;
+        margin-right: 110px;
+    }
